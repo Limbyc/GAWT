@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Gawt</string>
+    //WelcomeScreen
+    <string name="main_text">Государственная администрация водного транспорта</string>
+    <string name="log_in">Войти</string>
+    
+    //LogInScreen
+    <string name="log_in_text">Вход</string>
+    <string name="user_login">Логин</string>
+    <string name="user_password">Пароль</string>
+    <string name="user_enter_login">Введите логин</string>
+    <string name="user_enter_password">Введите пароль</string>
+    <string name="forgot_password">ЗАБЫЛИ ПАРОЛЬ</string>
+
+    //MainScreen
+    <string name="choose_river">Выберите реку</string>
+    <string name="dnepr">Днепр</string>
+    <string name="berezyna">Березина</string>
+    <string name="soj">Сож</string>
+    <string name="prypyat">Припять</string>
+
+    //ProfileScreen
+    <string name="startwork">Начать работу</string>
+    <string name="endwork">Закончить работу</string>
+    <string name="enterdata">Ввести данные об экипаже</string>
+
+    //RiverScreen
+    <string name="enterdataa">Ввести данные</string>
+    <string name="startcheck">Начать осмотр</string>
+    <string name="createreport">Сформировать отчет</string>
+
+    //StaffDataScreen
+    <string name="enteratastaff">Ввести данные об экипаже</string>
+    <string name="spokesman">Представитель  Гомельводпуть</string>
+    <string name="sheep">Судно</string>
+    <string name="crew_composition">Состав экипажа</string>
+    <string name="save">Сохранить</string>
+
+    //RiverDataScreen
+    <string name="commission">Представители комиссии</string>
+    <string name="gawt">Представитель ГУ "ГАВТ"</string>
+    <string name="vvp">Представитель предприятия ВВП</string>
+    <string name="birs">Представитель ГУ "БИРС"</string>
+    <string name="additional_commission">Пердставитель(дополнительно)</string>
+</resources>
